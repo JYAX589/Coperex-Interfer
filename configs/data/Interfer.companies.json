@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "67c5257dc9dc5377ae75f79e"
+  },
+  "name": "Bimbo",
+  "impactLevel": "MEDIO",
+  "yearTrajectory": 20,
+  "category": "COMERCIAL",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c52f6238593cb77101eee5"
+  },
+  "name": "Megapaca",
+  "impactLevel": "ALTO",
+  "yearTrajectory": 25,
+  "category": "COMERCIAL",
+  "__v": 0
+}]
